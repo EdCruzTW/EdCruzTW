@@ -12,17 +12,43 @@
 ✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
+
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="./icons/Anaconda-Dark.svg" width="48"> 
+    <img src="./icons/Apple-Dark.svg" width="48">
+    <img src="./icons/Arduino.svg" width="48"> 
+    <img src="./icons/C.svg" width="48">
+    <img src="./icons/CPP.svg" width="48"> 
+    <img src="./icons/Discord.svg" width="48"> 
+    <img src="./icons/Eclipse-Dark.svg" width="48"> 
+    <img src="./icons/Figma-Dark.svg" width="48">
+    <img src="./icons/Git.svg" width="48"> 
+    <img src="./icons/Github-Dark.svg" width="48"> 
+    <img src="./icons/Gmail-Dark.svg" width="48">
+    <img src="./icons/HTML.svg" width="48">
+    <img src="./icons/Illustrator.svg" width="48">
+    <img src="./icons/Instagram.svg" width="48">
+    <img src="./icons/Java-Dark.svg" width="48">
+    <img src="./icons/JavaScript.svg" width="48">
+    <img src="./icons/JQuery.svg" width="48">
+    <img src="./icons/Kali-Dark.svg" width="48">
+    <img src="./icons/LinkedIn.svg" width="48">
+    <img src="./icons/Linux-Dark.svg" width="48">
+    <img src="./icons/MySQL-Dark.svg" width="48">
+    <img src="./icons/PyCharm-Dark.svg" width="48">
+    <img src="./icons/Python-Dark.svg" width="48">
+    <img src="./icons/PyTorch-Dark.svg" width="48">
+    <img src="./icons/Twitter.svg" width="48">
+    <img src="./icons/VisualStudio-Dark.svg" width="48">
+    <img src="./icons/VSCode-Dark.svg" width="48">
+  </a>
+</p>
 
-
-<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect width="256" height="256" rx="60" fill="#394AAB"/>
-<path d="M134.001 33C169.144 33 199.828 52.0863 216.262 80.4561L216.102 80.183L174.753 103.991C166.607 90.1977 151.672 80.8892 134.54 80.6975L134.001 80.6945C107.875 80.6945 86.6945 101.874 86.6945 127.999C86.6945 136.543 88.9723 144.552 92.9335 151.469C101.088 165.704 116.416 175.306 134.001 175.306C151.693 175.306 167.109 165.582 175.222 151.195L175.025 151.54L216.311 175.458C200.057 203.588 169.794 222.615 135.059 222.994L134.001 223C98.746 223 67.9753 203.796 51.582 175.276C43.5791 161.353 39 145.212 39 127.999C39 75.5334 81.5323 33 134.001 33Z" fill="white"/>
-</svg>
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
