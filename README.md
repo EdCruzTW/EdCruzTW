@@ -18,7 +18,7 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white
+![image](https://github.com/user-attachments/assets/84821945-1c8a-4f4e-81b4-1259c3a27140)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
