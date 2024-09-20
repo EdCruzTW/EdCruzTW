@@ -25,7 +25,7 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="./icons/Anaconda-Dark.svg" width="48"> 
+    `ableton` <img src="./icons/Anaconda-Dark.svg" width="48"> 
     <img src="./icons/Apple-Dark.svg" width="48">
     <img src="./icons/Arduino.svg" width="48"> 
     <img src="./icons/C.svg" width="48">
