@@ -1,4 +1,4 @@
-![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
+![Screenshot 2024-09-19 211224](https://github.com/user-attachments/assets/483cdba0-a361-4019-b82a-17948d98f24d)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Ed</h2>
 
