@@ -3,19 +3,17 @@
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Ed</h2>
 
-<br>
-
-![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/EdCruzTW/EdCruzTW/blob/main/github-contribution-grid-snake.svg)
-
-<br/>
 
 ### 👨🏻‍💻 &nbsp;About Me
+<h1>
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Computer Science at the BENEMERITA UNIVERSIDAD AUTONOMA DE PUEBLA.\
 🌱 &nbsp;I'm on track for learning more about Cybersecurity, Artificial Intelligence, Data Base & Frontend.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at edgar.gemer3000@gmail.com! I'll try to respond as soon as I can.\
+  
+</h1>
+
 
 
 <p><img align="right" height="250" width="300" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
