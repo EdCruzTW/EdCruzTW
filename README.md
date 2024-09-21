@@ -3,20 +3,19 @@
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Ed</h2>
 
+<p><img align="right" height="250" width="300" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
 
 ### 👨🏻‍💻 &nbsp;About Me
-<h1>
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Computer Science at the BENEMERITA UNIVERSIDAD AUTONOMA DE PUEBLA.\
 🌱 &nbsp;I'm on track for learning more about Cybersecurity, Artificial Intelligence, Data Base & Frontend.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
   
-</h1>
 
 
 
-<p><img align="right" height="250" width="300" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
+
 
 ### 🛠 &nbsp;Tech Stack
 
