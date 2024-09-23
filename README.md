@@ -6,7 +6,7 @@
 <p><img align="right" height="250" width="300" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
 
 ### 👨🏻‍💻 &nbsp;About Me
-
+💬 &nbsp;Languaje ES-EN
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Computer Science at the BENEMERITA UNIVERSIDAD AUTONOMA DE PUEBLA.\
 🌱 &nbsp;I'm on track for learning more about Cybersecurity, Artificial Intelligence, Data Base & Frontend.\
